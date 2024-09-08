@@ -2,7 +2,7 @@
 
 import { FullBlogSkeleton } from "./BlogSkeleton";
 import { FullBlog } from "./FullBlog";
-import { useBlog } from "../../Hooks";
+import { useBlog } from "../Hooks";
 import { useParams } from "next/navigation";
 import { AppBar } from "@repo/ui/AppBar";
 
